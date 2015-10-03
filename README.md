@@ -7,8 +7,8 @@ Code we use for doing resume raffles at events.
 `./raffle.rb [directory] [extension]`
 
 optional arguments:
-  directory=the base directory to search in. defaults to "."
-  extension=file extension to consider. defaults to ".pdf". you should really have a PDF resume anyways
+* directory=the base directory to search in. defaults to "."
+* extension=file extension to consider. defaults to ".pdf". you should really have a PDF resume anyways
   
 ### Examples
 
